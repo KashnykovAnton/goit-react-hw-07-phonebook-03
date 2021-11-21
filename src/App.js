@@ -1,11 +1,19 @@
 import './App.css';
+import Section from './components/Section';
+import ContactList from './components/ContactList';
+import ContactForm from './components/ContactForm';
+import Filter from './components/Filter';
 
-function App() {
+export default function App() {
   return (
     <div>
-      <h1>Welcome to React!</h1>
+      <Section title="Phonebook">
+        <ContactForm />
+      </Section>
+      <Section title="Contacts">
+        <Filter />
+        <ContactList />
+      </Section>
     </div>
   );
 }
-
-export default App;
