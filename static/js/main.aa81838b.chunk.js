@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-template-2"]=this["webpackJsonpreact-template-2"]||[]).push([[0],{10:function(e,t,c){},12:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),o=c.n(i),a=(c(8),c(9),c(10),c(0));var s=function(){return Object(a.jsx)("div",{children:Object(a.jsx)("h1",{children:"Welcome to React!"})})};o.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(s,{})}),document.getElementById("root"))},9:function(e,t,c){}},[[12,1,2]]]);
+//# sourceMappingURL=main.aa81838b.chunk.js.map
